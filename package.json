@@ -9,7 +9,8 @@
     "url": "git+https://github.com/mikhaylov-ya/algorithms-project-69.git"
   },
   "scripts": {
-    "test": "npx jest --coverage"
+    "test": "npx jest --coverage",
+    "lint": "npx eslint ."
   },
   "author": "Yaroslav Mikhaylov",
   "license": "ISC",
